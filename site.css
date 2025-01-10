@@ -1,0 +1,17 @@
+change {
+  transition-duration: 0ms;
+}
+
+header {
+  width: 80%;
+  margin: 0 auto;
+}
+h1 {
+  font-family: "Flavors";
+  font-size: 150pt;
+}
+
+main {
+  width: 80%;
+  margin: 0 auto;
+}
